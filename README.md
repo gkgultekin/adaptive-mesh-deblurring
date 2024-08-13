@@ -4,7 +4,7 @@ This repository contains the implementation of the algorithm presented in the pa
 
 ## Overview
 
-Motion blur is a common problem in video processing that affects both human perception and computer vision tasks. Traditional deblurring methods often assume uniform blur, which is computationally efficient but ineffective for non-uniform blur scenarios. Our proposed method addresses this limitation by:
+Traditional deblurring methods often assume uniform blur, which is computationally efficient but ineffective for non-uniform blur scenarios. Our proposed method addresses this limitation by:
 
 - Dividing the video frame into a mesh-grid structure.
 - Estimating the blur Point Spread Function (PSF) using data from an Inertial Measurement Unit (IMU).
