@@ -22,5 +22,5 @@ Traditional deblurring methods often assume uniform blur, which is computational
 ## Dataset
 
 The image dataset used in this study is generated from the videos that are available in the following links:
-https://www.youtube.com/watch?v=wz3BGn--UIA
-https://pixabay.com/videos/buddha-buddhism-asia-zen-203408/
+- https://www.youtube.com/watch?v=wz3BGn--UIA
+- https://pixabay.com/videos/buddha-buddhism-asia-zen-203408/
