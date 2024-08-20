@@ -18,3 +18,9 @@ Traditional deblurring methods often assume uniform blur, which is computational
 - **IMU Integration**: Inertial sensor data is used to aid in accurate blur estimation, particularly for non-uniform motion.
 - **Performance Options**: Choose between high-quality deblurring or a balanced approach with reduced computational requirements.
 - **Trade-Off Parameter**: Customize the algorithm to fit your application's performance and quality needs.
+
+## Dataset
+
+The image dataset used in this study is generated from the videos that are available in the following links:
+https://www.youtube.com/watch?v=wz3BGn--UIA
+https://pixabay.com/videos/buddha-buddhism-asia-zen-203408/
