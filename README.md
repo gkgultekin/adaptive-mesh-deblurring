@@ -24,3 +24,4 @@ Traditional deblurring methods often assume uniform blur, which is computational
 The image dataset used in this study is generated from the videos that are available in the following links:
 - https://www.youtube.com/watch?v=wz3BGn--UIA
 - https://pixabay.com/videos/buddha-buddhism-asia-zen-203408/
+The raw blurred images of castle image sequence is made available in the repository
